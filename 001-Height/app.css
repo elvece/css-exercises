@@ -9,3 +9,36 @@ img {
 }
 
 /* Code Under This Line */
+
+.short {
+  height:100px;
+}
+
+.tall {
+  height: 200px;
+}
+
+.outside {
+  height:100px;
+  background-color: black;
+}
+
+.inside {
+  background-color: green;
+  height: 100%;
+}
+
+/*Viewpoint Percentage: also a solution to make div as tall as entire document, not as compatible, however
+.giant{
+  height: 100vh;
+  background-color: blue;
+}*/
+
+body, html{
+  height:100%;
+}
+
+.giant{
+  height: 100%;
+  background-color: orange;
+}
