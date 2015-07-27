@@ -16,3 +16,26 @@ img {
   #222
   #7BBADE
 */
+
+.a {
+  background-color: #FFED5D;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 20px 20px 20px 20px;
+}
+
+.b {
+  background-color: #FF7050;
+
+  padding: 20px 20px 20px 20px;
+}
+
+.c {
+  background-color: #222;
+  padding: 20px 20px 20px 20px;
+}
+
+.d {
+  background-color: #7BBADE;
+  padding: 20px 20px 20px 20px;
+}
